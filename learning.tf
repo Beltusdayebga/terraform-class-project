@@ -43,3 +43,6 @@ resource "aws_subnet" "pub_subnet" {
     Name = "pub-tf-subnet"
   }
 }
+
+
+#testing
